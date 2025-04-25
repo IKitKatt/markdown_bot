@@ -13,7 +13,7 @@
 
 1. Клонируем репозиторий
 2. Редактируем ``TELEGRAM_TOKEN`` на свое значение
-```
+```dockerfile
 version: '3.8'
 
 services:
